@@ -2,7 +2,7 @@
 Primeiro projeto de teste de um arquivo com README 🐱‍👤🐱‍🏍🐱‍👓
 
 
-<img src="./animação.gif" alt="Gif da tela inicial do primeiro projeto de README">
+[<img src="./animação.gif" alt="Gif da tela inicial do primeiro projeto de README">]
 
 
 ## Tecnologias Utilizadas
