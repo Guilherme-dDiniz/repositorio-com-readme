@@ -22,3 +22,5 @@ git clone
 ```
 
 ## Experiencias adquiridas com o decorrer do projeto (exemplo)
+
+## Colaboradores
